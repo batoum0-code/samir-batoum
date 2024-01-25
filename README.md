@@ -1,3 +1,4 @@
+![logo](https://media.licdn.com/dms/image/D4E16AQEsAd0ZnIlFnw/profile-displaybackgroundimage-shrink_350_1400/0/1706204469078?e=1711584000&v=beta&t=-Jehze4NcSq0egbav0CZsBV9O5iFLHF5nC-SKpTcmAQ)
 <h1 align="center">Hi 👋, I'm samir batoum</h1>
 <h3 align="center">A passionate developer from Morocco</h3>
 
